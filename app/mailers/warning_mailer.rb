@@ -1,0 +1,2 @@
+class WarningMailer < ApplicationMailer
+end
